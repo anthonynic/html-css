@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+
+/*usar o height 100% para usar o degrade*/
+
+body{
+    background-image: linear-gradient(to bottom, #F8AB67, #A2CDF2, #060708)
+    
+}
+h1{
+    margin: 20px;
+   text-align: center;
+   background-color: black ;
+   color: #BF5934;
+   box-shadow: 14px 15px 17px 15px rgb(231, 43, 169);
+   border-radius: 1px;
+}
+
+.jogo1{
+color: #BF5934;
+}
